@@ -1,0 +1,1324 @@
+{
+    "Dinakdakan": {
+        "region": "Luzon",
+        "description": "An Ilocano grilled pork dish tossed in a creamy, tangy dressing.",
+        "ingredients": [
+            "1 lb. pig ears",
+            "1 lb. pig face maskara",
+            "6 ounces pig liver",
+            "1 teaspoon ginger powder",
+            "1 red onion sliced",
+            "6 chili peppers chopped",
+            "4 tablespoons white vinegar",
+            "1 teaspoon garlic powder optional",
+            "1 teaspoon ginger minced (optional)",
+            "3 pieces bay leaves optional",
+            "1 tablespoon whole peppercorn optional",
+            "1/2 cup mayonnaise",
+            "8 cups water",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "Boil pig ears and face in 6–8 cups of water (optionally with bay leaves and peppercorns) for 50–60 minutes. Drain, pat dry, and rub with salt. Season the liver with ginger powder.",
+            "Grill the pork (4–6 mins per side) and liver (5–8 mins) until slightly crisp. Once cooled, chop everything into bite-sized pieces.",
+            "In a bowl, whisk 1/2 cup mayonnaise, 4 tbsp vinegar, salt, and pepper. Fold in the chopped meat, ginger, chili, red onion, and garlic powder. Serve immediately."
+        ],
+        "image": "dishes_pics/dinakdakan.jpg"
+    },
+    "Bicol Express": {
+        "region": "Luzon",
+        "description": "A spicy pork stew cooked in rich coconut milk.",
+        "ingredients": [
+            "2 lbs. pork belly sliced into strips",
+            "2 cups coconut milk",
+            "2 cups coconut cream",
+            "1/4 cup shrimp paste or salted Krill",
+            "5 cloves garlic crushed",
+            "5 pieces Thai chili pepper chopped",
+            "2 thumbs ginger minced",
+            "1 piece onion chopped",
+            "2 pieces Serrano pepper sliced",
+            "1 cup water optional",
+            "8 grams Maggi Magic Sarap"
+        ],
+        "steps": [
+            "In a pan, mix pork belly, ginger, garlic, onion, chilis, green peppers, 1/4 cup bagoong, and coconut milk. Cover and bring to a boil.",
+            "Reduce heat to low and simmer, covered, for 50 minutes until the pork is tender. Add up to 1 cup of water if the liquid dries out too quickly.",
+            "Stir in coconut cream and Magic Sarap. Add more bagoong if desired. Simmer uncovered for 10–15 minutes until the sauce thickens and renders oil. Serve with rice."
+        ],
+        "image": "dishes_pics/bicol_express.jpg"
+    },
+    "Laing": {
+        "region": "Luzon",
+        "description": "Dried taro leaves simmered in coconut milk with pork and chilies.",
+        "ingredients": [
+            "3.5 oz taro leaves dried",
+            "6 cups coconut milk",
+            "2 cups coconut cream",
+            "1/2 cup shrimp paste bagoong or balaw",
+            "1/2 lb. pork shoulder thinly sliced",
+            "5 to 7 pieces red chilies",
+            "1 piece onion sliced",
+            "1/2 cup sliced ginger",
+            "8 cloves garlic crushed"
+        ],
+        "steps": [
+            "Combine coconut milk, pork, shrimp paste, ginger, onion, and garlic. Bring to a boil, then cover and simmer for 15–20 minutes, stirring occasionally.",
+            "Add dried taro leaves on top. Do not stir. Let them sit for 20–30 minutes to absorb the liquid (submerge gently if needed). Once softened, stir and cook for 10 minutes.",
+            "Stir in coconut cream and red chilies. Cook for 10–12 minutes until the sauce is thick and rich. Serve."
+        ],
+        "image": "dishes_pics/laing.jpg"
+    },
+    "Hardinera": {
+        "region": "Luzon",
+        "description": "A festive Lucban-style pork meatloaf with eggs, cheese, and vegetables.",
+        "ingredients": [
+            "2 tablespoons cooking oil",
+            "1 medium onion, diced",
+            "3 cloves garlic, minced",
+            "1 lb pork, diced",
+            "1 cup water",
+            "1/2 cup tomato sauce",
+            "1/4 cup sweet pickle relish",
+            "1/2 cup beef franks or hotdogs, diced",
+            "1/4 cup raisins",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon ground black pepper",
+            "1/2 beef cube",
+            "1/2 cup pineapple chunks",
+            "1/4 cup roasted sweet pepper",
+            "1/4 cup liver spread",
+            "1/4 cup cheese, grated",
+            "1/2 cup bread crumbs",
+            "2 hard-boiled eggs, sliced or wedged",
+            "2 raw eggs"
+        ],
+        "steps": [
+            "Sauté garlic and onions, then brown the pork. Add beef cube, water, and tomato sauce; simmer until tender and dry. Let cool.",
+            "Mix the cooked pork with salt, pepper, hotdogs, bread crumbs, liver spread, relish, pineapple, raisins, and cheese.",
+            "Grease a llanera, arrange eggs and roasted peppers, pour in part of the beaten egg, then pack in the pork mixture. Cover with foil.",
+            "Steam for about 50 minutes, cool slightly, unmold, and serve."
+        ],
+        "image": "dishes_pics/hardinera.jpg"
+    },
+    "Bulalo": {
+        "region": "Luzon",
+        "description": "A comforting beef shank soup with marrow, corn, and greens.",
+        "ingredients": [
+            "2 lbs beef shank",
+            "1/2 cabbage, leaves separated",
+            "1 bundle bok choy",
+            "2 cobs corn, each cut into 3 parts",
+            "2 tablespoons whole peppercorn",
+            "1/2 cup green onions, cut into 1 1/2-inch pieces",
+            "1 onion",
+            "34 ounces water",
+            "Fish sauce to taste (optional)"
+        ],
+        "steps": [
+            "Bring water to a boil in a pot. Add beef shank, onion, and peppercorns. Simmer for 1½ hours (or 30 minutes in a pressure cooker) until the beef is tender.",
+            "Add corn and simmer for 10 minutes. Stir in fish sauce, cabbage, bok choy, and green onions. Cook until the greens are just wilted. Serve hot."
+        ],
+        "image": "dishes_pics/bulalo.jpg"
+    },
+    "Sisig": {
+        "region": "Luzon",
+        "description": "A sizzling chopped pork dish with rich, savory, and tangy flavors.",
+        "ingredients": [
+            "1 ½ lbs pork belly",
+            "3 tablespoons Knorr Liquid Seasoning",
+            "1 lb pig face (maskara)",
+            "4 ounces chicken liver",
+            "2 onions",
+            "½ cup chicharon, crumbled",
+            "3 tablespoons Lady’s Choice Mayonnaise",
+            "2 teaspoons onion powder",
+            "¼ teaspoon ground black pepper",
+            "½ teaspoon chili flakes (optional)",
+            "1 tablespoon butter",
+            "3 tablespoons cooking oil",
+            "2 quarts water"
+        ],
+        "steps": [
+            "Boil pork belly and pig face in 2 quarts of water for 1 hour. Drain, cool, then grill for 5 minutes per side. Chop or mince the meat into small pieces.",
+            "Heat oil and sauté onions for 1 minute. Add chicken liver and cook thoroughly, mashing it into small bits as it browns.",
+            "Stir in the chopped meat and crumbled chicharon. Season with chili flakes, onion powder, pepper, and Knorr Liquid Seasoning. Fold in mayonnaise and cook for 3 minutes.",
+            "Melt butter on a preheated metal plate. Transfer the sisig to the plate until sizzling. Top with extra chicharon and serve with calamansi and rice."
+        ],
+        "image": "dishes_pics/sisig.jpg"
+    },
+    "Kare - kare": {
+        "region": "Luzon",
+        "description": "A Filipino peanut stew with tender meat and vegetables.",
+        "ingredients": [
+            "3 lbs oxtail, cut into 2-inch slices (you can also use tripe or beef slices)",
+            "1 small banana flower bud, sliced",
+            "1 bundle pechay or bok choy",
+            "1 bundle string beans, cut into 2-inch pieces",
+            "4 Chinese eggplants, sliced",
+            "1 cup ground peanuts",
+            "½ cup peanut butter",
+            "½ cup shrimp paste",
+            "34 ounces water (about 1 liter)",
+            "½ cup annatto seeds, soaked in 1 cup water",
+            "½ cup toasted ground rice",
+            "1 tablespoon garlic, minced",
+            "1 onion, chopped",
+            "Salt and pepper, to taste"
+        ],
+        "steps": [
+            "Boil oxtail and onion in 1 liter of water. Simmer for 2½ to 3 hours (or 35 minutes in a pressure cooker) until the meat is tender.",
+            "Stir in ground peanuts, peanut butter, and annatto water. Simmer for 5–7 minutes. Add toasted ground rice and simmer for another 5 minutes until the sauce thickens.",
+            "In a separate pan, sauté garlic, banana flower, eggplants, and string beans for 5 minutes.",
+            "Transfer the vegetables into the main pot. Season with salt and pepper. Serve hot with shrimp paste (bagoong)"
+        ],
+        "image": "dishes_pics/kare_kare.jpg"
+    },
+    "Tinolang Isda": {
+        "region": "Luzon",
+        "description": "A light fish soup flavored with ginger, lemongrass, and greens.",
+        "ingredients": [
+            "2 lbs. Tuna jaw panga",
+            "1 to 2 cups hot pepper leaves dahon ng sili",
+            "1 bunch scallions sliced in 3 inch pieces (dahon ng sibuyas)",
+            "2 plum tomato sliced in wedges (optional)",
+            "3 to 5 pieces long green pepper siling pansigang",
+            "1 medium yellow onion sliced",
+            "3 thumbs ginger peeled and sliced into pieces",
+            "1 stalk lemongrass",
+            "1 piece Knorr Fish Bouillon fish cube",
+            "5 cups water",
+            "3 tablespoons fish sauce patis"
+        ],
+        "steps": [
+            "Bring water to a boil. Add ginger, tomato, and onion; return to a boil. Add lemongrass, cover, and boil for 5–8 minutes.",
+            "Gently add the Tuna, cover, and cook for 12–15 minutes. Stir in the fish cube and simmer on low-medium heat for 2 minutes.",
+            "Add hot pepper leaves, scallions, long green pepper, and fish sauce. Stir and cook for 3 minutes before serving."
+        ],
+        "image": "dishes_pics/tinolang_isda.jpg"
+    },
+    "Ginisang Labanos": {
+        "region": "Luzon",
+        "description": "Sautéed radish with pork, shrimp, and vegetables.",
+        "ingredients": [
+            "1 lb. daikon white radish, sliced into thick strips",
+            "1 piece carrot sliced into thick strips",
+            "1 piece tomato cubed",
+            "3/4 cup pork thinly sliced",
+            "3/4 cup dried shrimp small",
+            "1 piece onion sliced",
+            "3 cloves garlic crushed",
+            "2 teaspoons fish sauce",
+            "1/2 cup water",
+            "1/2 teaspoon ground black pepper",
+            "2 tablespoons cooking oil"
+        ],
+        "steps": [
+            "Heat oil and sauté garlic and onion. Once the onion softens, add tomato and cook for 3 minutes.",
+            "Add the pork and cook for 5 minutes. Pour in water, bring to a boil, then cover and simmer for 10 minutes.",
+            "Stir in daikon and carrot. Cover and cook for 5 minutes.",
+            "Add shrimp, fish sauce, and pepper. Stir and cook for an additional 10 minutes before serving."
+        ],
+        "image": "dishes_pics/ginisang_labanos.jpg"
+    },
+    "Ensaladang Labanos": {
+        "region": "Luzon",
+        "description": "A fresh radish salad with vinegar, tomato, and onion.",
+        "ingredients": [
+            "1 1/2 cups Labanos radish",
+            "2 pcs tomatoes thinly sliced",
+            "1 small onion thinly sliced",
+            "1/3 cup vinegar use Sinamak if want it spicy",
+            "salt and pepper to taste"
+        ],
+        "steps": [
+            "Peel and slice the radish very thin. In a bowl, toss with 2 tbsp salt and let sit for 25 minutes.",
+            "Squeeze the radish firmly to release liquid. Rinse with water, drain, and squeeze again to remove all excess salt and moisture.",
+            "In a bowl, mix the radish with the remaining ingredients. Season with salt and pepper to taste before serving."
+        ],
+        "image": "dishes_pics/ensaladang_labanos.jpg"
+    },
+    "Lumpiang Gulay": {
+        "region": "Luzon",
+        "description": "Crispy vegetable spring rolls served as a savory snack or side.",
+        "ingredients": [
+            "1 lb. mung bean sprouts cleaned",
+            "6 ounces fried extra firm tofu cut into cubes",
+            "2 cups shredded cabbage",
+            "1 medium yellow onion sliced",
+            "1 small tomato cubed (optional)",
+            "1 teaspoon minced garlic",
+            "2 teaspoons coarse sea salt",
+            "1/4 teaspoon ground black pepper",
+            "Egg roll or sprig roll wrapper",
+            "1 1/2 cups cooking oil"
+        ],
+        "steps": [
+            "Heat oil and sauté garlic and onion. Add tomato and tofu, stir-frying for 2 minutes. Season with salt and pepper.",
+            "Stir in cabbage and cook for 3 minutes. Add bean sprouts and cook for another 5 minutes. Transfer to a plate and drain excess liquid thoroughly; let cool.",
+            "Place 2–2.5 tablespoons of filling on an egg roll wrapper. Fold the sides in and roll tightly. Seal the edge with a dab of water and press to secure.",
+            "Deep-fry in medium heat until golden brown on all sides. Drain on a plate lined with paper towels before serving."
+        ],
+        "image": "dishes_pics/lumpiang_gulay.jpg"
+    },
+    "Pinikpikan": {
+        "region": "Luzon",
+        "description": "A Cordilleran chicken soup traditionally cooked with smoked meat and vegetables.",
+        "ingredients": [
+            "1 whole free-range chicken or native chicken",
+            "200 g speck, etag or any fatty cured smoked pork",
+            "1 big bunch bok choy or shanghai",
+            "2 chayote, sliced",
+            "2 stalks celery, sliced",
+            "1 inch piece ginger, thinly sliced",
+            "2 red onions, chopped",
+            "4 cloves garlic, smashed",
+            "1/2 cup tapuy or any rice wine",
+            "water, as needed",
+            "oil"
+        ],
+        "steps": [
+            "Smoke and grill the seasoned chicken until charred, then cool and chop into pieces.",
+            "Sauté celery, ginger, onion, and garlic. Add chicken, rice wine, and etag, then cover with water.",
+            "Simmer until nearly tender, add chayote, then finish with bok choy. Season and serve."
+        ],
+        "image": "dishes_pics/pinikpikan.jpg"
+    },
+    "Pinakbet Ilocano": {
+        "region": "Luzon",
+        "description": "Ilocano mixed vegetables cooked with bagoong and aromatics.",
+        "ingredients": [
+            "1 large eggplant cut diagonal into 1 to 2 inches thick",
+            "1 cup bitter melon ampalaya, cut into 1 inch thick",
+            "8 pieces of okra cut into 1 inch halve diagonal",
+            "½ bunch of green long beans cut into 3 inches length",
+            "1 cup squash cut diagonal into 1 to 2 inches longth",
+            "1 small chopped onion",
+            "3 cloves chopped garlic",
+            "1.5 inches thumb-size ginger chopped into 3 pieces",
+            "1 cup of water",
+            "4 tablespoon of bagoong monamon dilis fermented anchovies",
+            "2 tablespoon of vegetable oil For saute"
+        ],
+        "steps": [
+            "Heat oil in a large pot over medium-low. Sauté garlic and ginger for 1 minute, then add onion and cook until translucent.",
+            "Add okra and bitter melon, stirring for a few minutes to reduce sliminess and bitterness. Mix in eggplant, long beans, and squash.",
+            "Add water and bring to a boil on high heat. Reduce to low and simmer for 5–10 minutes. Stir in the bagoong monamon (fermented anchovies).",
+            "Continue simmering until the liquid reduces and vegetables are tender but not overcooked. Turn off the heat and serve."
+        ],
+        "image": "dishes_pics/pinakbet_ilocano.jpg"
+    },
+    "Pinakbet Tagalog": {
+        "region": "Luzon",
+        "description": "A Tagalog vegetable stew with bagoong and crispy pork.",
+        "ingredients": [
+            "1 lb lechon kawali sliced",
+            "1 piece Knorr Shrimp Cube",
+            "12 pieces sitaw cut into 2 inch length",
+            "1/2 piece kalabasa cubed",
+            "12 pieces okra",
+            "1 piece Chinese eggplant sliced",
+            "1 piece ampalaya sliced",
+            "1 piece kamote cubed (optional)",
+            "2 pieces tomato cubed",
+            "2 thumbs ginger crushed (optional)",
+            "1 piece onion chopped",
+            "4 cloves garlic crushed",
+            "2 teaspoons bagoong alamang",
+            "2 ½ cups water",
+            "3 tablespoons cooking oil",
+            "¼ teaspoon ground black pepper"
+        ],
+        "steps": [
+            "Sauté onion, garlic, and ginger. Add half of the lechon kawali, pour in water, add shrimp cube, and simmer.",
+            "Stir in tomato and bagoong, then add kalabasa and kamote. Cook until partly tender.",
+            "Add sitaw, okra, ampalaya, and eggplant. Simmer until cooked, season with pepper, and top with the remaining lechon kawali."
+        ],
+        "image": "dishes_pics/pinakbet_tagalog.jpg"
+    },
+    "Beef Kaldereta": {
+        "region": "Luzon",
+        "description": "A rich beef stew with tomato sauce, vegetables, and creamy accents.",
+        "ingredients": [
+            "1 tablespoon cooking oil plus more, for frying",
+            "1 kilo beef short ribs sliced into 2-inch pieces",
+            "2 tablespoons Garlic crushed",
+            "1 Cup Onions chopped",
+            "1 1/4 cups Tomato sauce",
+            "2 tablespoons tomato paste",
+            "1 teaspoon Salt",
+            "1/2 teaspoon ground black pepper or to taste",
+            "2 teaspoons Fish sauce or more to taste",
+            "2 bay leaves",
+            "1 Cup water",
+            "2 tablespoons peanut butter",
+            "1 Cup coconut milk",
+            "3 medium Potatoes sliced into 2-inch cubes",
+            "1/3 Cup pimiento strips",
+            "1 to 3 bird's eye chilies (siling labuyo), Optional",
+            "2 medium carrots cubed",
+            "1/2 Cup green olives pitted"
+        ],
+        "steps": [
+            "Heat oil in a saucepan over medium-high. Sear short ribs in batches until browned; set aside. Sauté onions and garlic in the same pan until softened.",
+            "Return the beef to the pan and season with salt, pepper, fish sauce, and bay leaves. Add water, peanut butter, and coconut milk",
+            "Bring to a boil, then cover and simmer on the lowest heat for 1.5–2 hours until tender, stirring every 15 minutes.",
+            "Separately fry potatoes and carrots until golden. Once the meat is fork-tender, stir in the fried vegetables, pimiento, olives, and chilis.",
+            "Simmer until heated through and adjust seasoning to taste."
+        ],
+        "image": "dishes_pics/beef_kaldereta.jpg"
+    },
+    "Pork Adobong Tagalog": {
+        "region": "Luzon",
+        "description": "Classic pork adobo braised in soy sauce, vinegar, and garlic.",
+        "ingredients": [
+            "500 grams pork belly (liempo), cut into 1-inch cubes",
+            "200 ml soy sauce",
+            "¼ cup white vinegar (adjust to taste)",
+            "6 cloves garlic, minced",
+            "1 medium onion, sliced",
+            "3 bay leaves",
+            "1 teaspoon black peppercorns",
+            "½ teaspoon salt (adjust to taste)",
+            "1 tablespoon cooking oil",
+            "1 cup water",
+            "1 tablespoon brown sugar (optional)"
+        ],
+        "steps": [
+            "Marinate pork belly in soy sauce for at least 1 hour. Heat oil in a pot and sauté garlic until golden, then add onions and cook until translucent.",
+            "Add the pork and marinade; sauté for 5 minutes. Pour in vinegar and do not stir. Add bay leaves, peppercorns, water, and sugar. Bring to a boil undisturbed.",
+            "Stir, cover, and simmer for 30–35 minutes until the pork is tender. For a thicker sauce, simmer uncovered until reduced. Adjust seasoning with salt or vinegar and serve with rice."
+        ],
+        "image": "dishes_pics/pork_adobong_tagalog.jpg"
+    },
+    "Bulanglang na Gulay": {
+        "region": "Luzon",
+        "description": "A light Batangas vegetable soup with simple, clean flavors.",
+        "ingredients": [
+            "1 ½ cups malunggay leaves",
+            "1 bunch fresh spinach",
+            "1 Knorr Fish Cube",
+            "5 pieces Indian eggplant cut into half",
+            "10 pieces okra",
+            "1 medium patola sliced",
+            "½ small unripe papaya sliced into wedges",
+            "2 cups kalabasa cubed",
+            "2 medium tomato wedged",
+            "1 medium onion wedged",
+            "3 thumbs ginger crushed",
+            "4 cloves garlic crushed",
+            "4 to 6 cups water",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "Bring water to a boil in a pot. Add garlic, ginger, and onion; cover and boil for 5 minutes.",
+            "Add tomato, unripe papaya, and kalabasa (squash). Cover and cook over medium heat for 3–4 minutes. Stir in eggplant, okra, and patola, and cook for another 3–5 minutes.",
+            "Add a fish cube and stir for 2 minutes. Stir in malunggay leaves and spinach, then season with salt and pepper. Serve hot."
+        ],
+        "image": "dishes_pics/bulanglang_na_gulay.jpg"
+    },
+    "Sinigang na Baboy": {
+        "region": "Luzon",
+        "description": "A sour pork soup with vegetables in a tamarind broth.",
+        "ingredients": [
+            "2 lbs. pork belly see notes",
+            "1 lb. young tamarind see notes",
+            "1 bunch water spinach chopped",
+            "8 pieces string beans cut into 2-inch pieces",
+            "2 pieces Chinese eggplant sliced",
+            "1 piece daikon radish see notes",
+            "8 pieces okra",
+            "2 pieces tomatoes sliced into wedges",
+            "2 pieces long green pepper",
+            "1 piece onion sliced into wedges",
+            "2 quarts water",
+            "Fish sauce and ground black pepper to taste"
+        ],
+        "steps": [
+            "Boil young tamarind in 2 quarts of water for 40 minutes. Strain the liquid into a pot and squeeze the pulp to extract all juices; discard solids.",
+            "Bring the broth to a boil. Add pork belly, onion, and half the tomatoes. Skim off any scum, stir in fish sauce, and simmer covered for 1 hour until the pork is tender..",
+            "Stir in daikon radish and eggplant; cook for 5 minutes. Add long green pepper, string beans, the remaining tomatoes, and okra, then cook for 3 minutes.",
+            "Add water spinach stalks, season with fish sauce and pepper, and cook for 2 minutes. Stir in the leaves, cover, and turn off the heat. Let sit for 3 minutes before serving."
+        ],
+        "image": "dishes_pics/sinigang_na_baboy.jpg"
+    },
+    "Pork Menudo": {
+        "region": "Luzon",
+        "description": "A tomato-based pork stew with liver, hotdogs, and vegetables.",
+        "ingredients": [
+            "1 lbs. pork",
+            "0.13 lb. pig liver",
+            "0.5 cup potatoes diced",
+            "0.5 piece carrot cubed",
+            "0.25 cup soy sauce",
+            "0.25 piece lemon",
+            "0.5 piece onion chopped",
+            "1.5 cloves garlic minced",
+            "0.5 teaspoon sugar",
+            "0.38 cup tomato sauce",
+            "0.5 cup water",
+            "2 pieces hotdogs sliced diagonally",
+            "1 tablespoons cooking oil",
+            "1 to 1.5 pieces dried bay leaves",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "Marinate pork in soy sauce and lemon, then sauté garlic and onion.",
+            "Add the pork, tomato sauce, water, and bay leaves. Simmer until the meat becomes tender.",
+            "Stir in liver and hotdogs, then add potatoes, carrots, sugar, salt, and pepper. Cook until vegetables are soft."
+        ],
+        "image": "dishes_pics/pork_menudo.jpg"
+    },
+    "Ginataang Kalabasa at Sitaw": {
+        "region": "Luzon",
+        "description": "Squash and string beans simmered in coconut milk.",
+        "ingredients": [
+            "1 lbs. squash cubed",
+            "12 pieces string beans see notes",
+            "0.67 piece Knorr Pork cube",
+            "2 ounces pork see notes",
+            "2.67 cups coconut milk see notes",
+            "0.67 piece onion chopped",
+            "1.33 thumbs ginger sliced into strips",
+            "3.33 cloves garlic crushed",
+            "0.17 teaspoon ground black pepper",
+            "0.67 tablespoon cooking oil",
+            "Fish sauce to taste"
+        ],
+        "steps": [
+            "Heat oil in a pan and cook pork until brown and crispy. Sauté garlic, onion, and ginger until the onion softens.",
+            "Pour in coconut milk. Bring to a boil, then reduce to medium heat and simmer covered for 5 minutes.",
+            "Stir in the pork cube and squash; cook for 5 minutes. Add string beans and continue cooking for 5–8 minutes until tender.",
+            "Season with black pepper and fish sauce to taste. Serve hot."
+        ],
+        "image": "dishes_pics/ginataang_kalabasa_at_sitaw.jpg"
+    },
+    "Ginisang Okra": {
+        "region": "Visayas",
+        "description": "Sautéed okra with tomato, onion, and fish flakes.",
+        "ingredients": [
+            "12 to 15 pieces okra sliced",
+            "4 pieces galunggong fish fried",
+            "1 medium yellow onion chopped",
+            "2 medium ripe tomato cubed",
+            "5 cloves garlic crushed and chopped",
+            "2 tablespoons fish sauce patis",
+            "1/8 teaspoon ground black pepper",
+            "2 1/2 tablespoons cooking oil"
+        ],
+        "steps": [
+            "Shred the fish, removing all bones. Heat oil in a wok or large pan and sauté garlic and onion until fragrant.",
+            "Add tomato and the shredded fish; cook for 2 minutes. Stir in the okra and cook over high heat for 5–10 minutes.",
+            "Add fish sauce and pepper. Stir well and cook for a final 2 minutes before serving."
+        ],
+        "image": "dishes_pics/ginisang_okra.jpg"
+    },
+    "Kinilaw na Isda": {
+        "region": "Visayas",
+        "description": "Fresh fish cured in vinegar and citrus with ginger and onion.",
+        "ingredients": [
+            "1 pound of fish filet, cut into bite size pieces",
+            "1 medium sized onion, finely chopped",
+            "1 large knob of ginger, peeled and minced",
+            "1 large cucumber, peeled and thinly sliced",
+            "1 cup of vinegar",
+            "4 calamansi lemons, juiced",
+            "2 small chili peppers, minced",
+            "salt to taste",
+            "freshly ground black pepper"
+        ],
+        "steps": [
+            "Combine vinegar and calamansi juice in a large bowl and stir briefly.",
+            "Add ginger and onion to the liquid. Stir and let sit for 5 minutes to allow the flavors to meld.",
+            "Add the cucumber and fish to the bowl. Toss gently to ensure everything is evenly coated before serving."
+        ],
+        "image": "dishes_pics/kinilaw_na_isda.jpg"
+    },
+    "Lansiao": {
+        "region": "Visayas",
+        "description": "A deeply savory Visayan soup slowly simmered with herbs and spices.",
+        "ingredients": [
+            "800g bulls' testes and testicles, cleaned and parboiled",
+            "200g beef tendons",
+            "4 cups beef stock",
+            "4 cups water",
+            "2 cups beef broth",
+            "8 stalks lemongrass, bruised",
+            "1 packet sibot/sibut herb mix (Chinese medicinal herbs)",
+            "4 birds eye chilies",
+            "2 thumb-sized pieces of ginger, thinly sliced",
+            "2 white onions, chopped",
+            "1 whole head garlic, minced",
+            "2 stalks spring onions, white and green parts separated and chopped",
+            "Fish sauce to taste",
+            "Freshly ground black pepper",
+            "Cooking oil"
+        ],
+        "steps": [
+            "Clean and parboil the meat and tendons twice to reduce strong flavor.",
+            "Simmer them with broth, lemongrass, and herbs until tender, then slice and reserve the strained broth.",
+            "Sauté aromatics, return the meat, add chilies and broth, then simmer to blend the flavors.",
+            "Season with fish sauce and pepper, garnish with spring onions, and serve hot."
+        ],
+        "image": "dishes_pics/lansiao.jpg"
+    },
+    "Cansi": {
+        "region": "Visayas",
+        "description": "An Ilonggo sour beef soup blending bulalo richness with sinigang tang.",
+        "ingredients": [
+            "2 lbs. beef shank",
+            "2 stalks lemongrass tied into knots with thick end crushed",
+            "1 plum tomato wedged",
+            "3 pieces long green chili siling pansigang",
+            "3 pieces hot red chili pepper optional",
+            "7 cloves garlic crushed",
+            "1 medium yellow onion wedged",
+            "4 tablespoons annatto oil",
+            "1 beef cube",
+            "2 20g pack Sinigang sa sampaloc mix",
+            "3 cups sliced unripe jackfruit",
+            "8 to 10 cups water",
+            "3 tablespoons fish sauce patis"
+        ],
+        "steps": [
+            "Heat annatto oil in a pressure cooker or soup pot. Fry garlic until light brown, then add the beef shank, searing each side for about 1 minute.",
+            "Pour in water and bring to a boil. Add onion, tomato, beef cube, and lemongrass.",
+            "Secure the lid and pressure cook for 30 minutes (or simmer in a regular pot for 2–3 hours) until the beef is tender.",
+            "Carefully open the cooker and return to a boil. Stir in the jackfruit and cook for 5 minutes, then add the peppers and cook for 2–3 minutes.",
+            "Stir in the sinigang mix and fish sauce. Simmer for 3–5 minutes to allow the flavors to meld before serving."
+        ],
+        "image": "dishes_pics/cansi.jpg"
+    },
+    "Laswa Ilonggo": {
+        "region": "Visayas",
+        "description": "A light Ilonggo vegetable soup with shrimp and leafy greens.",
+        "ingredients": [
+            "8 pieces shrimp cleaned",
+            "2 pieces Chinese eggplant sliced",
+            "1 1/2 cups kalabasa squash diced",
+            "15 pieces string beans cut into 2 inch pieces",
+            "1 cup saluyot leaves",
+            "2 cups alugbati",
+            "1 cup Amaranth leaves (kulitis)",
+            "8 pieces okra",
+            "2 pieces tomato wedged",
+            "1 piece onion wedged",
+            "2 teaspoons bagoong alamang or guinamos",
+            "5 cups water",
+            "Salt and ground black pepper to taste"
+        ],
+        "steps": [
+            "Boil water in a pot. Add onion and tomato, cover, and boil for 5 minutes over medium heat.",
+            "Add kalabasa (squash) and bagoong alamang (shrimp paste). Boil for 5 minutes. Stir in eggplant, string beans, and okra, and cook for another 4–5 minutes.",
+            "Add the shrimp to the pot. Cover and cook for exactly 1 minute.",
+            "Stir in the saluyot, amaranth leaves (kulitis), and alugbati. Season with salt and pepper to taste before serving."
+        ],
+        "image": "dishes_pics/laswa.jpg"
+    },
+    "Kadyos, Baboy at Langka": {
+        "region": "Visayas",
+        "description": "A hearty Ilonggo stew of pork, pigeon peas, and jackfruit.",
+        "ingredients": [
+            "1.5 kg pork leg",
+            "1 1/2 cup pigeon peas or black beans, if using the dried one soak it ovenight prior to use",
+            "2 cups cubed young jackfruit",
+            "1 bunch of spinach, water spinach or sweet potato tops (talbos ng kamote)",
+            "5 pieces batuan or 8 pcs tamarind fruit",
+            "2 stalks lemongrass, sliced",
+            "2 litres water",
+            "1 onion, chopped",
+            "fish sauce or sea salt",
+            "finger chillies"
+        ],
+        "steps": [
+            "Grill the pork leg over charcoal until all sides are lightly charred to infuse the meat with a smoky aroma.",
+            "In a pot, combine the pork, water, batuan, lemongrass, and onions. Bring to a boil, then simmer for 30 minutes.",
+            "Add the pigeon peas (or black beans) and simmer for 30 minutes. Stir in the jackfruit and continue simmering for another 30 minutes until the meat and vegetables are tender.",
+            "Add the spinach and finger chilies; simmer for 5 minutes. Season with fish sauce (or salt) and black pepper before serving."
+        ],
+        "image": "dishes_pics/KBL.jpg"
+    },
+    "Batchoy": {
+        "region": "Visayas",
+        "description": "A flavorful noodle soup with meat, seafood, and rich broth.",
+        "ingredients": [
+            "1 Tbsp. (15ml) Cooking oil",
+            "1/2 cup (100g) Beef liver, sliced",
+            "1/2 cup (100g) Clam meat, well-cleaned",
+            "1/2 cup (100g) Shrimp, peeled and deveined",
+            "1/2 cup (100g) Chicken breast, boiled and shredded",
+            "1 Tbsp. (15ml) Soy sauce",
+            "2 cups (500ml) Shrimp broth, water used to boil shrimp",
+            "3 cups (750ml) Chicken broth, water used to boil chicken",
+            "3/4 cup (150g) Miki noodles",
+            "1 pack (8g) AJI-GINISA® Flavor Seasoning Mix"
+        ],
+        "steps": [
+            "Heat oil in a pot and stir-fry the beef liver, clams, shrimp, and chicken until all components are fully cooked.",
+            "Pour in the soy sauce, shrimp stock, and chicken stock. Bring to a simmer for 2 minutes, then add the miki noodles and toss well to coat.",
+            "Add the seasoning mix, stir thoroughly, and continue cooking until well-combined. Transfer to a bowl and serve immediately while hot."
+        ],
+        "image": "dishes_pics/batchoy.jpg"
+    },
+    "Humba": {
+        "region": "Visayas",
+        "description": "Sweet-savory braised pork with pineapple, black beans, and spices.",
+        "ingredients": [
+            "2 lbs pork belly",
+            "1 cup pineapple juice",
+            "1 large onion, diced",
+            "5 cloves garlic, minced",
+            "2 tablespoons salted black beans",
+            "2 tablespoons soy sauce",
+            "2 tablespoons vinegar",
+            "2 ½ tablespoons brown sugar",
+            "½ cup dried banana blossoms",
+            "2 pieces dried bay leaves",
+            "1 teaspoon whole peppercorn"
+        ],
+        "steps": [
+            "Heat a pot and brown the pork belly. Add onion and garlic, cooking until the onions are soft.",
+            "Stir in soy sauce, peppercorns, and bay leaves. Pour in pineapple juice and bring to a boil. Simmer until the pork is tender, adding water as needed.",
+            "Pour in vinegar and let it re-boil undisturbed. Simmer for 3 minutes, then stir in the salted black beans and brown sugar. Simmer for another 5 minutes.",
+            "Add the dried banana blossoms and simmer for 5–8 minutes. Transfer to a plate and serve hot."
+        ],
+        "image": "dishes_pics/humba.jpg"
+    },
+    "Chicken Binakol": {
+        "region": "Visayas",
+        "description": "Chicken soup cooked with coconut water, coconut meat, and vegetables.",
+        "ingredients": [
+            "6 lbs chicken, cut into serving pieces",
+            "1 head garlic, crushed and chopped",
+            "4 onions, sliced",
+            "5 thumbs ginger, crushed and chopped",
+            "4 young coconuts",
+            "2 small green papayas, wedged",
+            "1 bunch lemongrass",
+            "5 long green peppers",
+            "2 cups hot pepper leaves",
+            "1 cup malunggay leaves",
+            "2 Maggi Magic Chicken Cubes",
+            "3 tablespoons fish sauce (optional)",
+            "1 teaspoon ground black pepper",
+            "3 tablespoons cooking oil"
+        ],
+        "steps": [
+            "Heat oil in a large pot. Sauté garlic, onions, and ginger until softened. Add the chicken and fish sauce, cooking for 3–4 minutes until the chicken is lightly browned.",
+            "Pour in the young coconut juice and add the coconut meat. Bring to a boil, then add the green papaya and lemongrass. Cover and simmer for 20–30 minutes until the chicken is tender.",
+            "Stir in the green peppers and black pepper, cooking for 3 minutes. Add the chicken cubes and stir well to dissolve.",
+            "Add the hot pepper leaves and malunggay leaves. Stir briefly and let the residual heat cook the greens for 2 minutes before serving hot with rice."
+        ],
+        "image": "dishes_pics/chicken_binakol.jpg"
+    },
+    "Paksiw na Isda": {
+        "region": "Visayas",
+        "description": "Fish simmered in vinegar, garlic, ginger, and chilies.",
+        "ingredients": [
+            "2 pieces fish (about ½ lb each), cleaned and scales removed",
+            "1 knob ginger, sliced and pounded",
+            "6 cloves garlic, skin removed",
+            "½ cup vinegar",
+            "1 cup water",
+            "1 medium onion, sliced",
+            "1 small bitter gourd, chopped (optional)",
+            "3 pieces finger chili",
+            "2 teaspoons salt",
+            "1 teaspoon whole peppercorn"
+        ],
+        "steps": [
+            "In a pan or cooking pot, combine vinegar, water, salt, and whole peppercorns. Stir and bring the mixture to a boil.",
+            "Place the fish, ginger, garlic, onion, bitter gourd (if using), and finger chilies into the pot.",
+            "Cover and simmer over low to medium heat for 12–15 minutes. Turn off the heat and serve immediately with steamed rice."
+        ],
+        "image": "dishes_pics/paksiw_na_isda.jpg"
+    },
+    "Tinolang Manok Bisaya": {
+        "region": "Visayas",
+        "description": "A Bisaya-style chicken soup with ginger, sayote, and malunggay.",
+        "ingredients": [
+            "1/2 kg chicken (any parts)",
+            "2 tbsp cooking oil",
+            "1 broth cube",
+            "2 tbsp soy sauce or patis",
+            "2 cups malunggay (horseradish)",
+            "2 tbsp ginger",
+            "1 tbsp garlic",
+            "1 medium onion",
+            "1 1/2 cups sayote",
+            "2 1/2 cups water",
+            "1 tbsp spring onions"
+        ],
+        "steps": [
+            "Sauté garlic, ginger, and onion, then add chicken and seasonings. Cook until lightly browned.",
+            "Add water and soy sauce or fish sauce, then simmer until the chicken is partly tender.",
+            "Add green papaya and cook until soft. Turn off the heat, add malunggay, cover briefly, and serve."
+        ],
+        "image": "dishes_pics/tinolang_manok_bisaya.jpg"
+    },
+    "Linagpang na Bangus": {
+        "region": "Visayas",
+        "description": "Char-grilled milkfish simmered in a light tomato-onion broth.",
+        "ingredients": [
+            "2 large bangus, char-grilled, whole or sliced into sections",
+            "2 large red onions, sliced",
+            "4 large tomatoes, sliced",
+            "4 stalks spring onions, chopped (whites and greens separated)",
+            "3 cups boiling water",
+            "fish sauce, to taste",
+            "freshly ground black pepper, to taste"
+        ],
+        "steps": [
+            "In a pot, combine boiling water, tomato slices, red onions, and the white parts of the spring onions. Bring to a boil and simmer for 5 minutes.",
+            "Add the char-grilled bangus (whole or sliced) to the pot. Lower the heat and simmer gently for 10 minutes.",
+            "Season with fish sauce and black pepper to taste.",
+            "Transfer to a bowl and garnish with the green spring onion parts before serving hot."
+        ],
+        "image": "dishes_pics/linagpang_na_bangus.jpg"
+    },
+    "Pork Adobong Bisaya": {
+        "region": "Visayas",
+        "description": "Visayan pork adobo braised, then fried until crisp.",
+        "ingredients": [
+            "700g pork belly (liempo), cut into 1-inch cubes",
+            "2 tablespoons neutral oil, plus more for frying",
+            "8-12 garlic cloves, peeled and lightly smashed",
+            "1 tablespoon black peppercorns",
+            "2 cups water",
+            "1 cup white or coconut vinegar",
+            "2 tablespoons salt",
+            "2-3 bay leaves",
+            "2 tablespoons soy sauce",
+            "2 tablespoons brown sugar (optional)"
+        ],
+        "steps": [
+            "Heat oil in a large pot and sauté garlic and peppercorns until fragrant. Add pork belly, water, vinegar, salt, and bay leaves.",
+            "Bring to a boil, then cover and simmer for 20–30 minutes until the pork is tender.",
+            "Remove the pork and set it aside. Add soy sauce and brown sugar to the remaining liquid.",
+            "Increase the heat and cook, stirring frequently, until the sauce reduces by half into a thin gravy.",
+            "Heat neutral oil in a frying pan to 350–375°F. Fry the braised pork in batches for 3–4 minutes until the exterior is golden brown and crispy.",
+            "Drain the meat on paper towels to remove excess oil."
+        ],
+        "image": "dishes_pics/pork_adobong_bisaya.jpg"
+    },
+    "Utan Bisaya (Law-Uy)": {
+        "region": "Visayas",
+        "description": "A simple Visayan vegetable soup with fresh produce and light broth.",
+        "ingredients": [
+            "3/4 lb squash",
+            "2 pieces taro",
+            "1 piece Knorr Shrimp Cube",
+            "4 thumbs ginger",
+            "2 stalks lemongrass",
+            "1 piece Chinese eggplant sliced",
+            "10 pieces string beans cut in 2 inch pieces",
+            "12 pieces okra",
+            "2 cups spinach",
+            "3 1/2 cups water",
+            "Salt and ground black pepper to taste"
+        ],
+        "steps": [
+            "Boil water in a cooking pot. Add lemongrass and ginger, cooking for 5 minutes to release their aromatics.",
+            "Add the taro and squash. Cover and continue boiling for 5–7 minutes until they begin to soften.",
+            "Remove and discard the lemongrass. Stir in the okra, string beans, and eggplant. Cover and cook for 7 minutes.",
+            "Stir in the shrimp cube and cook for 3 minutes. Add the spinach and cook for a final 2 minutes.",
+            "Season with salt and pepper to taste before serving."
+        ],
+        "image": "dishes_pics/law_uy.jpg"
+    },
+    "Bas - Uy": {
+        "region": "Visayas",
+        "description": "A pork and liver soup with lemongrass, ginger, and chayote.",
+        "ingredients": [
+            "1 lb. pork shoulder sliced",
+            "1/2 lb. pig liver sliced",
+            "2 pieces chayote sliced",
+            "4 stalks green onion or onion leek; cut in 2 inch length",
+            "1 thumb ginger julienne",
+            "1 medium yellow onion minced",
+            "3 cloves garlic minced",
+            "2 stalks lemongrass tied",
+            "6 cups beef or pork broth",
+            "3 tablespoons cooking oil",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "Heat oil in a pot and sauté onion and ginger until the onion is soft.",
+            "Add the liver and sauté for 2 minutes to remove its gamey aroma, then set the liver aside on a clean plate.",
+            "Add garlic to the pot and sauté until light brown. Add the pork and cook for 3–5 minutes.",
+            "Pour in the beef broth and add lemongrass; bring to a boil, then cover and simmer for 30–45 minutes.",
+            "Discard the lemongrass. Stir in the chayote and the cooked liver, then simmer for 3–5 minutes. Add green onions or leeks and cook for 2 more minutes.",
+            "Season with salt and pepper (or fish sauce) to taste before serving hot."
+        ],
+        "image": "dishes_pics/bas_uy.jpg"
+    },
+    "Pochero Bisaya": {
+        "region": "Visayas",
+        "description": "A hearty mixed-meat stew with bananas, vegetables, and tomato sauce.",
+        "ingredients": [
+            "2 tablespoons cooking oil",
+            "1 piece onion diced",
+            "4 cloves Garlic minced",
+            "1/2 kilo pork (use country-style boneless ribs or pork belly), cut into 1-1/2 cubes",
+            "1/2 kilo Beef (use chuck or brisket), cubed",
+            "1/2 kilo Chicken cut into small parts",
+            "2 pieces tomatoes diced",
+            "2 tablespoons fish sauce (patis)",
+            "2 cups water",
+            "2 pieces Potatoes quartered and then halved",
+            "1 can Tomato sauce",
+            "3-4 pieces banana plantain",
+            "1 bunch Bok Choy (Chinese leafy cabbage) baby or regular-sized",
+            "1 head cabbage",
+            "Salt to taste",
+            "2 pieces eggplant grilled"
+        ],
+        "steps": [
+            "Heat oil in a deep pot. Sauté onion for a minute, then add garlic. Stir in the pork, beef, chicken, and tomatoes, cooking until the meat is browned.",
+            "Pour in fish sauce and simmer for 3–5 minutes. Add water and bring to a boil; cover and simmer for 30–40 minutes until all meat is tender.",
+            "Stir in the potatoes and tomato sauce. Simmer for 5–6 minutes, then season with salt or additional fish sauce. Add the saba bananas and cook until tender.",
+            "Add the bok choy and cabbage, then immediately turn off the heat. Cover and let the residual heat steam the greens for 5 minutes.",
+            "Serve hot with diced eggplant and fish bagoong on the side."
+        ],
+        "image": "dishes_pics/pochero_bisaya.jpg"
+    },
+    "Lutik": {
+        "region": "Visayas",
+        "description": "Mashed squash in coconut milk with pork, shrimp, and greens.",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "1 Small red onion chopped",
+            "4 cloves Garlic minced",
+            "2 cups coconut milk",
+            "2 cups water",
+            "1 kilo kalabasa (squash) peeled, chopped",
+            "200 Grams ground pork",
+            "150 Grams Shrimp peeled, chopped",
+            "2 tablespoons patis (fish sauce)",
+            "1 tablespoon sugar",
+            "ground black pepper to taste",
+            "Salt to taste",
+            "1/2 Cup malunggay leaves"
+        ],
+        "steps": [
+            "Heat oil in a pot over medium heat and sauté onion and garlic until fragrant. Pour in coconut milk and water, then lower the heat and simmer for 5 minutes.",
+            "Add the squash and simmer for about 15 minutes until tender. Use the back of a wooden spoon to mash the squash into the liquid and stir to create a thick base.",
+            "Stir in the pork and shrimp; cook for 5 minutes until both are fully cooked through.",
+            "Add fish sauce, sugar, salt, and pepper to taste. Stir in the malunggay leaves."
+        ],
+        "image": "dishes_pics/lutik.jpg"
+    },
+    "Balbacua": {
+        "region": "Visayas",
+        "description": "A slow-cooked beef trotter stew known for its rich, collagen-filled broth.",
+        "ingredients": [
+            "5 lbs. cow trotters",
+            "1 Knorr Beef Cube",
+            "1 bunch lemongrass (white part) cut in 4-inch pieces",
+            "1 bell pepper sliced",
+            "3 tablespoons salted black beans",
+            "1 bunch green onions cut in 2-inch pieces",
+            "3 Jalapeno pepper",
+            "1 teaspoon ground black pepper",
+            "8 ounces tomato sauce",
+            "10 cups water",
+            "2 teaspoons annatto powder",
+            "5 cloves garlic crushed",
+            "1 onion chopped",
+            "2 knobs ginger crushed",
+            "Fish sauce to taste",
+            "3 tablespoons cooking oil"
+        ],
+        "steps": [
+            "Heat oil in a pan and sauté garlic, onion, and ginger until the onion is soft. Remove from the pan and set aside.",
+            "In a large pot, combine the trotters, water, black pepper, and lemongrass.",
+            "Bring to a boil, then reduce to the lowest heat and simmer for 3 hours until the meat is tender.",
+            "Discard the lemongrass. Stir in the annatto powder, sauteed aromatics, salted black beans, and beef cube. Continue cooking for 30 minutes.",
+            "Add the jalapeño, bell pepper, and green onions. Cook for a final 10 minutes before serving."
+        ],
+        "image": "dishes_pics/balbacua.jpg"
+    },
+    "Karne Frita": {
+        "region": "Visayas",
+        "description": "Ilonggo-style marinated beef strips fried and topped with onions.",
+        "ingredients": [
+            "1/2 kilo sirloin beef cut into strips",
+            "4 cloves Garlic chopped",
+            "1/4 Cup Soy Sauce",
+            "2 tablespoons brown sugar",
+            "6 to 10 pieces calamansi depends on the size",
+            "3 tablespoons cooking oil",
+            "2 large white onions cut into rings",
+            "Salt to taste",
+            "ground black pepper to taste"
+        ],
+        "steps": [
+            "Boil the sirloin in water until tender, then transfer to a bowl.",
+            "Marinate the beef in garlic, soy sauce, brown sugar, calamansi, salt, and pepper for at least 4 hours (or overnight for best results).",
+            "Heat oil in a pan and fry the marinated sirloin until well-browned. Remove the meat from the pan and set it aside.",
+            "In the same pan, sauté the onions for about 1 minute. The onions should be slightly softened but still retain some of their crispness.",
+            "Arrange the fried sirloin on a serving plate and top with the sautéed onions"
+        ],
+        "image": "dishes_pics/karne_frita.jpg"
+    },
+    "Tiyula Itum": {
+        "region": "Mindanao",
+        "description": "A dark Mindanao beef soup flavored with burnt coconut and spices.",
+        "ingredients": [
+            "1 kg beef brisket, cubed",
+            "1/2 cup grated coconut meat",
+            "4 stalks lemongrass, white section only pounded",
+            "3 birds eye chillies, finely chopped",
+            "4 cups beef stock",
+            "1 thumb sized ginger, thinly sliced",
+            "1/2 thumb sized turmeric, thinly sliced",
+            "6 cloves garlic, minced",
+            "3 pcs shallots, thinly sliced",
+            "salt",
+            "freshly ground black pepper",
+            "oil"
+        ],
+        "steps": [
+            "Place coconut meat on an aluminum-lined tray and grill at the highest setting until completely charred black.",
+            "Once cooled, pulse in a food processor until it becomes a fine powder.",
+            "Season the beef with salt and pepper. Heat oil in a pot and brown the beef pieces on all sides in batches. Remove the beef and set it aside.",
+            "In the same pot, sauté garlic, shallots, ginger, turmeric, chilies, and the burnt coconut powder until fragrant.",
+            "Return the beef to the pot along with the lemongrass and beef stock.",
+            "Bring to a boil, then reduce heat and simmer for 1.5 hours until the meat is tender. Season with salt and pepper to taste"
+        ],
+        "image": "dishes_pics/tiyula_itum.jpg"
+    },
+    "Pinayanggang Manok": {
+        "region": "Mindanao",
+        "description": "A Tausug chicken dish cooked with charred coconut and coconut milk.",
+        "ingredients": [
+            "3 pieces of chicken leg quarter",
+            "2 tablespoons of charred coconut meat",
+            "1 teaspoon of turmeric",
+            "2 teaspoon of grated garlic for marinating the chicken",
+            "3 cloves of chopped garlic for sautéing",
+            "2 teaspoon of grated ginger 1 teaspoon for marinating & 1 teaspoon for sautéing",
+            "1 medium chopped red onion",
+            "2 stalks of Lemongrass",
+            "½ cup water",
+            "400 ml of Coconut milk 1 whole canned",
+            "1 tablespoon of Fish sauce",
+            "2 teaspoons of Salt",
+            "1 teaspoon of Black Pepper",
+            "2 tablespoon of Vegetable canola oil"
+        ],
+        "steps": [
+            "In a bowl, combine the chicken with charred coconut powder, salt, pepper, turmeric, garlic, and ginger.",
+            "Mix well by hand and let it sit for 15 minutes to absorb the flavors.",
+            "Heat oil in a pan over medium heat. Sauté the red onion until translucent, then add the garlic and ginger, stirring for a few minutes.",
+            "Add the marinated chicken, water, and lemongrass. Pour in the coconut milk and bring to a simmer.",
+            "Cook for about 30 minutes until the chicken is tender, stirring in the fish sauce halfway through the cooking process.",
+            "Transfer the chicken to a baking pan and broil in the oven for 10 minutes until it reaches a charred texture.",
+            "To serve, spread the remaining sauce on a plate and top with the Chicken Piyanggang."
+        ],
+        "image": "dishes_pics/pinayanggang_manok.jpg"
+    },
+    "Sinina": {
+        "region": "Mindanao",
+        "description": "A Maguindanao beef stew in coconut milk with palapa and chilies.",
+        "ingredients": [
+            "1 kg beef brisket, cubed",
+            "1 1/2 cup coconut milk",
+            "1/2 cup beef stock",
+            "3 tbsp soy sauce",
+            "6 pcs birds eye chili, chopped",
+            "1 thumb sized ginger, thinly sliced",
+            "1 red onion, thinly sliced",
+            "6 cloves garlic, minced",
+            "2 large tomatoes, quartered",
+            "freshly ground black pepper",
+            "salt",
+            "oil"
+        ],
+        "steps": [
+            "In a large mortar, combine all palapa ingredients and pound with a pestle until the mixture reaches a paste-like consistency. Set aside..",
+            "Heat oil in a pot over medium heat. Sauté garlic, ginger, and red onions, then add tomatoes and cook until softened. Add the beef and sear until browned on all sides.",
+            "Pour in the coconut milk and beef stock. Bring to a boil, then reduce heat and simmer for 1 hour.",
+            "Add soy sauce and chilies, and continue to simmer for another 45 minutes.",
+            "Increase the heat to high and stir in the prepared palapa. Cook until the liquid reduces by half and the sauce thickens.",
+            "Season with salt and pepper."
+        ],
+        "image": "dishes_pics/sinina.jpg"
+    },
+    "Piaparan": {
+        "region": "Mindanao",
+        "description": "A Maranao chicken dish with coconut, turmeric, and a savory side soup.",
+        "ingredients": [
+            "1 1/2 kg chicken legs",
+            "6 cloves garlic, minced",
+            "2 red onions, thinly sliced",
+            "1 cup coconut milk",
+            "6 cups water",
+            "1 chayote, sliced",
+            "3 stalks spring onions, chopped",
+            "oil",
+            "salt",
+            "2 cups shredded coconut",
+            "2 tsp turmeric",
+            "1/2 green capsicum, sliced",
+            "1/2 red capsicum, sliced"
+        ],
+        "steps": [
+            "Pound all palapa ingredients in a mortar until they form a paste. In a pot, sauté garlic, onions, and one tablespoon of the palapa.",
+            "Add chicken and salt, browning the meat slightly before pouring in water. Bring to a boil and simmer for 25 minutes.",
+            "Remove the chicken and set it aside. Add chayote to the broth and cook for 5 minutes, then stir in coconut milk and cook for another 5 minutes.",
+            "Add spring onions and turn off the heat; this soup will be served on the side.",
+            "In a separate wok, sauté the remaining palapa in oil. Stir in turmeric, shredded coconut, and both red and green capsicum.",
+            "Stir-fry until the coconut is evenly yellow and aromatic.",
+            "Return the chicken to the wok and toss thoroughly to coat it with the coconut mixture. Cover and cook on low heat for 10 minutes.",
+            "Arrange the chicken and coconut on a platter and serve with the hot soup in a separate bowl."
+        ],
+        "image": "dishes_pics/piaparan.jpg"
+    },
+    "Tausug Beef Kulma": {
+        "region": "Mindanao",
+        "description": "A rich Tausug beef curry with coconut milk, peanut, and spices.",
+        "ingredients": [
+            "1 kg stewing beef, cut into cubes",
+            "2 heaping tbsp peanut butter",
+            "1/3 cup tomato paste",
+            "2 cups coconut milk",
+            "1/2 cup coconut cream",
+            "2 1/2 cups beef stock",
+            "2 tbsp curry powder",
+            "1 tsp cinnamon",
+            "1 tsp paprika",
+            "1 pc bay leaf",
+            "juice from half lemon",
+            "4 cloves garlic, minced",
+            "2 large onions, chopped",
+            "2 birds eye chilies, chopped",
+            "1 bunch lemongrass, pounded",
+            "salt",
+            "freshly ground black pepper",
+            "oil"
+        ],
+        "steps": [
+            "In a large bowl, combine salt, curry powder, paprika, cinnamon, and lemon juice. Mix well, then add the beef and let it marinate for 30 minutes.",
+            "Heat oil in a pot and brown the marinated beef pieces, then set them aside. In the same pot, sauté garlic and onions until they are soft.",
+            "Return the beef to the pot along with the bay leaf. Pour in the beef stock and coconut milk, bring to a boil, and simmer on low heat for 1 hour.",
+            "Stir in the tomato paste, peanut butter, lemongrass, and chilies.",
+            "Continue to simmer on low heat for 45 minutes.",
+            "Add the coconut cream and cook for a final 15 minutes. Season with salt and black pepper."
+        ],
+        "image": "dishes_pics/tausug_beef_kulma.jpg"
+    },
+    "Sampayna": {
+        "region": "Mindanao",
+        "description": "A Northern Mindanao blood stew with pork offal and banana heart.",
+        "ingredients": [
+            "1 cup pork's small intestines (cleaned, boiled and cut crosswise, 1 cm. Lengths)",
+            "1 cup pork's lung (cleaned, boiled and cut into small cubes)",
+            "2 tablespoons cooking fat",
+            "1 teaspoon crushed garlic",
+            "2 teaspoons sliced onion",
+            "1 teaspoons sliced ginger",
+            "2 tablespoons slice tomatoes",
+            "1/2 cup cut pork liver (cubes)",
+            "2 cups sliced banana heart",
+            "1 cup vinegar mixed with 2 cups pork's blood",
+            "2 1/2 teaspoons salt",
+            "1/2 cup olasiman stems and leaves"
+        ],
+        "steps": [
+            "Boil the intestines and lungs until tender (approximately 30 minutes). Clean them thoroughly, then cut crosswise into 1 cm lengths.",
+            "In a pot, sauté garlic, onion, ginger, and tomatoes. Stir in the prepared intestines, lungs, liver, and sliced banana heart.",
+            "Pour in the well-mixed vinegar-blood mixture. Bring to a boil and let it simmer for 15 minutes without stirring.",
+            "Season with salt and stir the pot. Add the olasiman (purslane) and cook for 5 more minutes."
+        ],
+        "image": "dishes_pics/sampayna.jpg"
+    },
+    "Sinuglaw": {
+        "region": "Mindanao",
+        "description": "A Mindanao favorite combining grilled pork with citrus-vinegar tuna.",
+        "ingredients": [
+            "1 lb Inihaw na liempo grilled pork belly, chopped",
+            "1 lb fresh tuna meat cubed",
+            "2 cups cucumber seeded and thinly sliced",
+            "1 1/4 cup vinegar cane, white, or coconut vinegar",
+            "1 medium sized red onion sliced",
+            "2 tablespoons ginger julienned",
+            "4 pieces finger chilies sliced",
+            "1 piece lemon",
+            "4 to 6 pieces Thai or Bird’s eye chili chopped",
+            "1 teaspoon salt"
+        ],
+        "steps": [
+            "Place the fresh tuna in a bowl and pour in 1/2 cup of vinegar. Let it soak for 8 minutes, then lightly press the meat with a spoon or fork to help the vinegar penetrate.",
+            "Drain the vinegar and discard it. Combine the tuna with cucumber, red onion, ginger, finger chilies, Thai chilies, and salt. Mix thoroughly to distribute the flavors.",
+            "Squeeze the juice of one lemon over the mixture and pour in the remaining 3/4 cup of vinegar. Stir well and allow it to soak for 10 minutes.",
+            "Add the grilled pork belly (inihaw na liempo) to the bowl and mix thoroughly.",
+            "Let the dish stand for at least 1 hour preferably in the refrigerator to allow the flavors to meld before serving."
+        ],
+        "image": "dishes_pics/sinuglaw.jpg"
+    },
+    "Piyassak": {
+        "region": "Mindanao",
+        "description": "A Tausug liver dish cooked with burnt coconut and coconut milk.",
+        "ingredients": [
+            "1 kg. of chicken or beef liver",
+            "1 pc. onion",
+            "2 thumbs Ginger",
+            "5 cloves Garlic",
+            "Black pepper",
+            "2 pcs. Lemongrass",
+            "1/2 tablespoon sugar",
+            "Cooking oil",
+            "500 ml coconut milk",
+            "½ burned coconut"
+        ],
+        "steps": [
+            "Cube the chicken liver. Char the coconut until burnt, then mix half of it into the coconut milk.",
+            "In a mortar, pound the remaining burnt coconut with ginger, garlic, turmeric, black pepper, and lemongrass until it forms a paste.",
+            "Heat a frying pan and sauté the onions until brown. Stir in the garlic, lemongrass, and black pepper, then add the chicken liver and cook until browned.",
+            "Pour the coconut milk and burnt coconut mixture into the pan. Ensure the liver is fully cooked, then season with salt, sugar, and MSG to taste.",
+            "Allow the mixture to boil and simmer until the liquid has completely evaporated and the sauce is dry."
+        ],
+        "image": "dishes_pics/piyassak.jpg"
+    },
+    "Rendang": {
+        "region": "Mindanao",
+        "description": "A slow-cooked spiced beef dish with coconut milk and toasted coconut.",
+        "ingredients": [
+            "Beef",
+            "1 kg stewing beef or beef brisket, cubed",
+            "1 cup grated mature coconut meat (niyog)",
+            "4 pcs bay leaves",
+            "400 ml coconut milk",
+            "1 cup water",
+            "2 tbsp soy sauce",
+            "lime zest",
+            "salt",
+            "Marinate",
+            "1/4 cup raw jasmine rice, pan roasted",
+            "1 1/2-inch turmeric, thinly sliced",
+            "1 inch galangal, thinly sliced",
+            "2 stalks lemon grass, white sections only, thinly sliced",
+            "1 small red capsicum, sliced",
+            "Palapa",
+            "1 inch ginger, thinly sliced",
+            "4 pcs spring onions, white sections only, thinly sliced",
+            "4 cloves garlic, thinly sliced",
+            "4 pcs birds eye chillies"
+        ],
+        "steps": [
+            "Pound pan-roasted rice in a mortar until coarse, then set aside. In the same mortar, pound the palapa ingredients into a paste.",
+            "Add the remaining marinade ingredients and pound until the spices release their natural oils.",
+            "In a bowl, combine the beef, coarse roasted rice, and the spice paste. Mix by hand until the beef is thoroughly coated, then let it marinate for 30 minutes.",
+            "Toast the grated coconut meat in a non-stick pan over medium-high heat until golden brown, then set aside. In a large wok, add a little oil and the marinated beef.",
+            "Cover and let the meat sweat and cook in its own juices for 15 minutes.",
+            "Stir in the bay leaf, coconut milk, soy sauce, toasted coconut, and lime zest.",
+            "Bring to a boil, then simmer on low for 1.5 to 2 hours until the beef is tender, adding water if it dries out.",
+            "During the final 5 minutes, increase the heat to high. Reduce the sauce until the coconut milk extracts its natural oils and thickens."
+        ],
+        "image": "dishes_pics/rendang.jpg"
+    },
+    "Adobong Pusit": {
+        "region": "Mindanao",
+        "description": "Squid cooked adobo-style in soy sauce, vinegar, and its ink.",
+        "ingredients": [
+            "3 tablespoons cooking oil",
+            "4 cloves Garlic minced",
+            "1 white onion finely chopped",
+            "1 kilogram Squid (Pusit) sliced with squid ink set aside",
+            "2 tablespoons Soy Sauce",
+            "4 tablespoons Vinegar",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Heat oil in a wok and sauté garlic and onions until fragrant and translucent.",
+            "Add the sliced squid, squid ink, and water. Bring to a boil and cook for about 2 minutes until the squid is tender.",
+            "Stir in the soy sauce and vinegar, then season with salt and pepper.",
+            "Allow the mixture to simmer for 2–3 minutes until the sauce has thickened to your preference."
+        ],
+        "image": "dishes_pics/adobong_pusit.jpg"
+    },
+    "Beef Hinalang": {
+        "region": "Mindanao",
+        "description": "A spicy Mindanao beef soup with ginger, chili, and savory broth.",
+        "ingredients": [
+            "1 1/2 lbs beef thinly sliced",
+            "1 piece Knorr Beef Cube",
+            "3/4 cup green onion chopped",
+            "12 pieces Thai chili pepper chopped",
+            "2 tablespoons white vinegar",
+            "4 tablespoons soy sauce",
+            "1 piece onion chopped",
+            "3 thumbs ginger sliced",
+            "5 cloves garlic minced",
+            "4 cups water",
+            "3 tablespoons cooking oil",
+            "Ground black pepper to taste"
+        ],
+        "steps": [
+            "Heat oil in a pot and sauté the onion, garlic, and ginger. Once the onion softens, add the beef and sauté until it turns medium brown.",
+            "Pour in the vinegar and soy sauce and bring to a boil.",
+            "dd the beef cube and water, then simmer over low to medium heat for about 30 minutes (or until the beef is tender), adding more water if necessary.",
+            "Stir in the Thai chili peppers and green onions.",
+            "Season with ground black pepper and cook for a final 2 minutes before serving."
+        ],
+        "image": "dishes_pics/beef_hinalang.jpg"
+    },
+    "Chicken Pastil": {
+        "region": "Mindanao",
+        "description": "Shredded seasoned chicken traditionally served with rice in banana leaf.",
+        "ingredients": [
+            "1 kg chicken thighs, skin and bone on",
+            "4 pcs shallots, finely chopped",
+            "6 cloves garlic, minced",
+            "1/2 cup soy sauce",
+            "1 tsp turmeric",
+            "oil",
+            "salt",
+            "freshly ground black pepper"
+        ],
+        "steps": [
+            "Rinse the rice in cold water and drain fully. Combine the rice with 3 1/4 cups of water in a rice cooker and cook until done.",
+            "In a pan, brown the chicken thighs in oil. Add 1 1/2 cups of water, bring to a boil, and simmer covered for 20–25 minutes until the chicken is tender enough to flake easily.",
+            "Remove the chicken and reserve the cooking liquid. Flake or shred the meat.",
+            "In a clean pan, sauté garlic and onions until soft, then stir-fry the shredded chicken with turmeric for one minute.",
+            "Add soy sauce and black pepper.",
+            "Stir-fry for 5 minutes over medium heat, adding a splash of the reserved liquid to keep the meat moist.",
+            "Season with salt as needed before assembling with the rice."
+        ],
+        "image": "dishes_pics/chicken_pastil.jpg"
+    },
+    "Satti de Zamboanga": {
+        "region": "Mindanao",
+        "description": "Grilled skewered meat served with a sweet-spicy satti sauce.",
+        "ingredients": [
+            "300g Beef/chicken",
+            "1 teaspoon salt",
+            "½ teaspoon pepper",
+            "2 garlic cloves",
+            "1 packet of annato (achiote) powder (optional)",
+            "1 large onion, chopped",
+            "1 birds eye chilli (or more if you want it hotter) this is mild",
+            "4 tomatoes, chopped",
+            "Cooking oil",
+            "3 thumb size ginger, chopped",
+            "1 litre water",
+            "1 chicken stock",
+            "1 teaspoon curry powder",
+            "150g sugar",
+            "1 tablespoon salt",
+            "1 teaspoon ground pepper"
+        ],
+        "steps": [
+            "In a bowl, combine the beef, garlic, salt, and pepper. Mix until the meat is thoroughly coated, then cover and marinate in the refrigerator for at least 2 hours or overnight.",
+            "Using a mortar and pestle or a blender, process the tomatoes, ginger, chilies, and onions until they form a smooth paste. Set this aside for the gravy.",
+            "Heat oil in a large pot and sauté the satti paste for 5 minutes.",
+            "Pour in water and bring to a boil. Reduce to medium heat and stir in curry powder, salt, chicken stock, and sugar.",
+            "Simmer on low for 8–10 minutes.",
+            "Whisk together water, corn flour, and annatto powder until smooth.",
+            "Slowly pour this into the sauce while stirring constantly until the gravy thickens, then remove from heat.",
+            "Thread the marinated meat onto skewers and grill or barbecue until fully cooked on all sides."
+        ],
+        "image": "dishes_pics/satti_de_zamboanga.jpg"
+    }
+}

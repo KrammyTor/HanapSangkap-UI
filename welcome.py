@@ -34,7 +34,7 @@ class WelcomeScreen(tk.Frame):
         available_height = screen_height - 70 - 70 - 120
         available_width = screen_width - 40
 
-        # -------------------- IMAGE --------------------
+        # -------------------- LOGO --------------------
         img = Image.open("hanapsangkap.png")
 
         w, h = img.size
@@ -50,14 +50,13 @@ class WelcomeScreen(tk.Frame):
         img_label = tk.Label(center_frame, image=self.hanap_img, bg="white")
         img_label.pack(pady=10)
 
-        # -------------------- IMPROVED TAP BUTTON --------------------
         tap_card = tk.Frame(
             center_frame,
             bg=BUTTON_COLOR,
             width=420,
             height=60,
             highlightthickness=2,
-            highlightbackground="#0A4F7A",  # subtle border for depth
+            highlightbackground="#0A4F7A",
             relief="raised",
             bd=4
         )
@@ -74,9 +73,14 @@ class WelcomeScreen(tk.Frame):
         tap_label.pack(expand=True)
 
         def proceed_to_scan(event=None):
+            controller.detected_item = None
+            controller.detected_items = []
+            controller.captured_frame = None
+            controller.scan_more = False
+            controller.scan_mode = "vegetable"
+            controller.after_result_target = "choice"
             self.after(50, lambda: controller.show_frame(ScanScreen))
 
-        # Hover effect
         def on_enter(e):
             tap_card.config(bg="#1A8FF0")
             tap_label.config(bg="#1A8FF0")
